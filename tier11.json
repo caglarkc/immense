@@ -1,0 +1,263 @@
+[
+    {
+      "name": "Clean and Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {
+        "QUADS": 2,
+        "GLUTES": 1,
+        "TRAPS": 1,
+        "CORE": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı deadlift pozisyonundan patlayıcı güçle omuzlarına çek (Clean). 2. Bacaklarını sabitleyerek barı başının üzerine it (Press). 3. Barı omuzlarına ve oradan yere kontrollü indir.",
+      "tips": "Omuz presi yaparken bacaklarından güç alma (Push press'ten farkı budur). Hareketleri birbirine akıcı bağla."
+    },
+    {
+      "name": "Thruster (Barbell)",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "SHOULDERS": 2,
+        "GLUTES": 1,
+        "CORE": 1,
+        "TRICEPS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı ön omuzlarında (front rack) tutarak ayaklarını omuz genişliğinde aç. 2. Tam bir squat pozisyonuna in. 3. Patlayıcı bir şekilde ayağa kalkarken barı başının üzerine it. 4. Tekrar çömelirken barı omuzlarına indir.",
+      "tips": "Bacaklarından aldığın ivmeyi kollarına aktar. İtiş ve çömelme hareketleri arasında duraklama yapma."
+    },
+    {
+      "name": "Thruster (Dumbbell)",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "SHOULDERS": 2,
+        "GLUTES": 1,
+        "CORE": 1,
+        "TRICEPS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Dambılları omuzlarının üzerinde tut. 2. Kalçanı geriye iterek squat yap. 3. Kalkarken dambılları patlayıcı şekilde baş üstüne it. 4. Tekrar çömelirken ağırlıkları omuzlarına indir.",
+      "tips": "Barbele göre stabilizasyonu daha zordur, core bölgeni sıkı tut. Dirseklerini squat sırasında dik tutmaya çalış."
+    },
+    {
+      "name": "Thruster (Kettlebell)",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "SHOULDERS": 2,
+        "GLUTES": 1,
+        "CORE": 1,
+        "TRICEPS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "KETTLEBELL",
+      "instructions": "1. Kettlebell'leri rack pozisyonunda (göğüs ve omuz hizası) tut. 2. Derin bir squat yap. 3. Yukarı kalkarken aldığın hızla kettlebell'leri baş üstüne it. 4. Kontrollü şekilde rack pozisyonuna dön ve çömel.",
+      "tips": "Kettlebell'in ağırlık merkezi bileklerini zorlayabilir, bileklerini bükmeden düz tut."
+    },
+    {
+      "name": "Devil Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {
+        "CHEST": 1,
+        "CORE": 2,
+        "HAMSTRINGS": 1,
+        "GLUTES": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. İki elinde dambıllarla yere şınav pozisyonunda in ve göğsünü yere değdir (burpee). 2. Zıplayarak ayaklarını dambılların arkasına getir. 3. Dambılları bacak arandan savurarak tek bir hareketle baş üstüne it. 4. Ağırlıkları yere bırakarak tekrarla.",
+      "tips": "Burpee ve dambıl snatch/swing karışımı çok yorucu bir harekettir. Ağırlığı kaldırırken belini koru, kalçanı kullan."
+    },
+    {
+      "name": "Dumbbell Complex (6-in-1)",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {
+        "QUADS": 1,
+        "SHOULDERS": 1,
+        "BACK": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Şınav pozisyonunda dambılları tut, birer renegade row yap. 2. Şınav çek. 3. Ayaklarını öne zıplat. 4. Dambılları omuzla (clean). 5. Squat yap (front squat). 6. Ayağa kalkarken baş üstüne it (press).",
+      "tips": "Birden fazla hareketi art arda kesintisiz yap. Nefes kontrolünü sağlamak en önemli kısımdır."
+    },
+    {
+      "name": "Barbell Complex",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "BACK": 1,
+        "SHOULDERS": 1,
+        "CORE": 1,
+        "HAMSTRINGS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barbell ile sırayla belirlenen hareketleri (örn: row, clean, front squat, press, good morning) ara vermeden yap. 2. Tüm hareketlerin tekrarlarını tamamlamadan barı yere bırakma.",
+      "tips": "Kardiyovasküler dayanıklılık ve yağ yakımı için harikadır. En zayıf olduğun harekete göre ağırlık seç."
+    },
+    {
+      "name": "Kettlebell Complex",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {
+        "SHOULDERS": 1,
+        "CORE": 1,
+        "HAMSTRINGS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "KETTLEBELL",
+      "instructions": "1. İki kettlebell ile sırayla belirlenen hareketleri (örn: swing, clean, squat, press) ardışık yap. 2. Set bitene kadar ağırlıkları bırakma.",
+      "tips": "Kettlebell geçişleri pürüzsüz olmalı. Formun bozulduğu yerde dinlen."
+    },
+    {
+      "name": "Man Maker",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {
+        "CHEST": 1,
+        "BACK": 1,
+        "QUADS": 1,
+        "SHOULDERS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Şınav pozisyonunda dambılları tut. 2. Şınav çek, sağ kolla row yap, tekrar şınav çek, sol kolla row yap. 3. Ayaklarını zıplatıp squat pozisyonuna gel. 4. Dambılları omuzlayarak thruster (squat + press) yap.",
+      "tips": "Dumbbell complex ile benzerdir ancak şınav ve row kombinasyonu çok daha yoğun üst vücut kuvveti ister."
+    },
+    {
+      "name": "Bear Complex",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "SHOULDERS": 1,
+        "BACK": 1,
+        "GLUTES": 1,
+        "CORE": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı yerden power clean ile omuzla. 2. Front squat yap. 3. Kalkarken push press ile barı baş üstüne it ve ensene indir. 4. Back squat yap. 5. Kalkarken push press ile tekrar baş üstüne itip göğsüne indir.",
+      "tips": "Yedi tekrarlı setler halinde yapılan çok ağır bir fonksyionel zincirdir. Enseye indirirken boynuna dikkat et."
+    },
+    {
+      "name": "Wall Ball",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "SHOULDERS": 2,
+        "GLUTES": 1,
+        "CORE": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Duvara dönük dur, sağlık topunu göğsünde tut. 2. Tam squat pozisyonuna in. 3. Kalkarken topu duvarda yüksek bir hedefe fırlat. 4. Düşen topu yakalayıp ivmeyle tekrar çömel.",
+      "tips": "Squat enerjisini atışa aktar. Topu yakalarken yüzüne çarpmaması için kollarını yumuşak tutarak yastıklama yap."
+    },
+    {
+      "name": "Box Step-Over",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "GLUTES": 2,
+        "CALVES": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Kutunun yanında dur (ellerde ağırlık olabilir). 2. Bir ayağını kutuya basarak yukarı çık. 3. Kutu üzerinde tam dikleşmeden diğer tarafa adım atarak aşağı in. 4. Sürekli tekrarlarla kutunun üstünden geç.",
+      "tips": "Hız ve dayanıklılık hareketidir. Kutu üzerinde ayağa tam kalkmana gerek yoktur, sadece güvenle karşıya geç."
+    },
+    {
+      "name": "GHD Sit-Up",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {
+        "QUADS": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. GHD makinesine ayaklarını sabitle, kalçan pedin biraz gerisinde kalsın. 2. Gövdeni ve kollarını geriye doğru yere paralel (veya daha aşağı) sarkıt. 3. Karın ve kalça fleksörlerini şiddetle sıkarak yukarı kalkıp ayak pedlerine dokun.",
+      "tips": "Bel bölgesine aşırı yük bindirir, omurga esnekliği az olanlar için tehlikeli olabilir. Tam kalkışı dizleri hafifçe kilitleyerek destekle."
+    },
+    {
+      "name": "GHD Hip Extension",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {
+        "GLUTES": 2,
+        "HAMSTRINGS": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. GHD makinesine yüzüstü yerleş, kalçan pedin sınırında olsun. 2. Belini ve sırtını düz tutarak gövdeni aşağı sarkıt. 3. Kalça ve arka bacak gücüyle gövdeni yere paralel olana kadar kaldır.",
+      "tips": "Sırtı yuvarlamadan sadece kalça ekleminden hareket et. Back extension'dan farkı sırtın tamamen düz ve statik kalmasıdır."
+    },
+    {
+      "name": "Kipping Pull-Up",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {
+        "CORE": 2,
+        "BACK": 1,
+        "SHOULDERS": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Bara asıl. 2. Göğsünü ileri itip ayaklarını geri alarak (Superman) kur. 3. Ayaklarını öne savururken kalçanı kapat (Hollow) ve bu ivmeyle kendini yukarı çek. 4. Çenen barı geçince kendini geriye doğru iterek ritmik bir şekilde in.",
+      "tips": "Saf güçten ziyade momentum ve zamanlama (jimnastik) hareketidir. Omuz sakatlığını önlemek için önce strict (nizami) pull-up yapabiliyor olmalısın."
+    },
+    {
+      "name": "Butterfly Pull-Up",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {
+        "CORE": 2,
+        "SHOULDERS": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Bara asıl. 2. Bacaklarını bisiklet çevirir gibi kullanarak öne-yukarı doğru dairesel bir ivme yarat. 3. Çenen barı geçerken gövdeni barın altından öne doğru düşürerek ritmi hiç bozmadan devam et.",
+      "tips": "Kipping'e göre çok daha hızlıdır. Omuz eklemine binen yük ekstremdir, teknik mükemmellik gerektirir."
+    },
+    {
+      "name": "Kipping Muscle-Up",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {
+        "CHEST": 1,
+        "TRICEPS": 2,
+        "CORE": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Halka (Ring) veya bara asıl. 2. Güçlü bir kipping (savrulma) ivmesi yarat. 3. Kalçanı bara doğru çekerken şiddetli bir çekiş yap. 4. En tepe noktada göğsünü barın/halkaların üzerine at (transition) ve triceps ile kendini yukarı it (dip).",
+      "tips": "Çekişten itişe geçiş (transition) aşaması en zor kısmıdır. False grip (bileği kırarak tutuş) öğrenmek bar/halka geçişini kolaylaştırır."
+    },
+    {
+      "name": "Handstand Push-Up (Kipping)",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {
+        "TRICEPS": 2,
+        "CORE": 1
+      },
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Duvara karşı amuda kalk. 2. Başını yavaşça yere değdirecek şekilde kollarını bükerek in. 3. Dizlerini göğsüne doğru çekerek kalçanı duvara daya. 4. Bacaklarını şiddetle yukarı fırlatırken kollarınla yeri itip kolları kilitle.",
+      "tips": "Kolların itiş gücüne bacakların ivmesini (kipping) eklersin. Boynunu korumak için kafanın altına bir mat koy."
+    },
+    {
+      "name": "Pistol Squat (Loaded)",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "GLUTES": 1,
+        "CORE": 1
+      },
+      "type": "WEIGHTED_BODYWEIGHT",
+      "equipment": "KETTLEBELL",
+      "instructions": "1. Göğüs hizasında bir ağırlık (dambıl veya kettlebell) tut. 2. Bir bacağını öne doğru düz uzat. 3. Destek bacağınla kalçanı topuğuna değdirecek kadar derin çömel. 4. Güçlü bir şekilde kalk.",
+      "tips": "Önde tuttuğun ağırlık, karşı ağırlık (counter-balance) görevi görerek geriye düşmeni engelleyebilir. Muazzam bir denge ve mobilite ister."
+    },
+    {
+      "name": "Double Kettlebell Front Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {
+        "GLUTES": 1,
+        "CORE": 2,
+        "SHOULDERS": 1
+      },
+      "type": "WEIGHT_REPS",
+      "equipment": "KETTLEBELL",
+      "instructions": "1. İki kettlebell'i göğüs ve ön omuzda (rack pozisyonu) tut. 2. Gövdeni dik, dirseklerini sıkı tutarak çömel. 3. Topuklardan iterek kalk.",
+      "tips": "İki ağırlığın dışarıda durması, gövdenin öne yıkılmasını engellemek için core kaslarını deli gibi çalıştırır."
+    }
+  ]

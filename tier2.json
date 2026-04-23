@@ -1,0 +1,947 @@
+[
+    {
+      "name": "Cable Fly",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. İki makarayı göğüs hizasına ayarla ve D-tutamakları kavra. 2. Bir adım öne çıkarak göğsünü ger. 3. Dirseklerini hafif bükülü tutarak kollarını önünde birleştir. 4. Göğsünü sıkarak yavaşça kolları geri aç.",
+      "tips": "Hareket boyunca dirsek açını değiştirme, pres hareketine dönüştürmekten kaçın."
+    },
+    {
+      "name": "Dumbbell Fly",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Düz sehpaya yat ve dambılları göğsünün üzerinde tut. 2. Dirseklerini hafifçe bükerek kollarını iki yana doğru aç. 3. Göğüs kaslarında gerilme hissettiğinde dur. 4. Göğsünü sıkarak dambılları tepe noktasında birleştir.",
+      "tips": "Çok ağır kilolardan kaçın. Kollarını çok fazla aşağı indirip omuz eklemine aşırı yük bindirme."
+    },
+    {
+      "name": "Incline Dumbbell Fly",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Yukarı eğimli sehpaya uzan. 2. Dambılları üst göğsünün üzerinde birleştir. 3. Dirsek açını koruyarak kollarını iki yana aç. 4. Üst göğüs kaslarını sıkarak başlangıç pozisyonuna dön.",
+      "tips": "Üst göğse odaklanmak için sehpanın açısı 30-45 derece arasında olmalıdır."
+    },
+    {
+      "name": "Pec Deck Machine",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve tutamakları göğüs hizasında kavra. 2. Dirseklerin omuz hizasının hafif altında olsun. 3. Kollarını ortada birleşecek şekilde birbirine doğru it. 4. Göğsü sıkarak yavaşça geri aç.",
+      "tips": "Hareketi yavaş ve kontrollü yap. Kolların geriye doğru çok fazla gitmesine izin verme."
+    },
+    {
+      "name": "Cable Crossover",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Üst makaralara D-tutamak tak ve kavra. 2. Bir adım öne çıkarak gövdeni hafifçe öne eğ. 3. Kollarını aşağı ve öne doğru çaprazlayarak göğsünü sık. 4. Kontrollü şekilde kolları geri aç.",
+      "tips": "Bileklerini düz tut. Tepe noktasında göğüs kaslarını bilinçli olarak sıkıştırmaya odaklan."
+    },
+    {
+      "name": "Low-to-High Cable Fly",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makaraları en alt seviyeye getir ve tutamakları kavra. 2. Ayakta dik durarak göğsünü dışarı çıkar. 3. Kollarını aşağıdan yukarıya ve içe doğru kaldırarak birleştir. 4. Üst göğsü sıkarak yavaşça aşağı indir.",
+      "tips": "Üst göğüs liflerini hedeflemek için harikadır. Kollarını çok fazla bükmemeye çalış."
+    },
+    {
+      "name": "High-to-Low Cable Fly",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makaraları en üst seviyeye al. 2. Kollarını yukarıdan aşağıya ve içe doğru iterek birleştir. 3. Alt göğsünü sıkarak kasılmayı hisset. 4. Yavaşça başlangıç pozisyonuna dön.",
+      "tips": "Alt göğüs bölgesine odaklan. Hareket sırasında gövdenin sabit kalmasına dikkat et."
+    },
+    {
+      "name": "Machine Chest Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"TRICEPS": 2, "SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve tutamakları orta göğüs hizasında tut. 2. Ayaklarını yere sağlam bas ve göğsünü dışarı çıkar. 3. Kolları tamamen düzelene kadar ileri it. 4. Kontrollü bir şekilde geri gel.",
+      "tips": "İtiş anında omuzlarını öne doğru yuvarlama, kürek kemiklerini arkada sıkı tut."
+    },
+    {
+      "name": "Svend Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1, "TRICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Bir veya iki adet ağırlık plakasını iki elinin avuç içiyle göğüs hizasında sıkıştırarak tut. 2. Plakaları göğsünden ileri doğru düz bir şekilde it. 3. Kolların tamamen gerginleşince durakla. 4. Plakaları göğsüne geri çek.",
+      "tips": "Hareketi plakaları birbirine şiddetle bastırarak yap, bu göğüs aktivasyonunu artıracaktır."
+    },
+    {
+      "name": "Landmine Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 2, "TRICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barın bir ucunu köşeye (veya landmine aparatına) sabitle. 2. Ayakta dur ve barın diğer ucunu iki elinle göğüs hizasında tut. 3. Barı ileri ve yukarı doğru it. 4. Üst göğsü sıkarak yavaşça indir.",
+      "tips": "Üst göğüs ve ön omuz için harika bir alternatiftir. Gövdeni dik tut ve belinden geriye esneme."
+    },
+    {
+      "name": "Close-Grip Lat Pulldown",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"BICEPS": 2, "BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye V-tutamak veya dar bar tak. 2. Avuç içleri birbirine veya kendine bakacak şekilde kavra. 3. Gövdeni hafifçe geriye eğip tutamağı üst göğsüne çek. 4. Yavaşça kollarını uzat.",
+      "tips": "Kanat kaslarının daha alt kısmını hedefler. Çekerken dirseklerini gövdene yakın tut."
+    },
+    {
+      "name": "Wide-Grip Lat Pulldown",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"BACK": 2, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Barı omuz genişliğinden daha açık kavra. 2. Gövdeni dik tutarak veya çok hafif geriye yatırarak barı çenene veya üst göğsüne çek. 3. Kürek kemiklerini sıkıştır. 4. Kontrollü şekilde kollarını yukarı sal.",
+      "tips": "Sırtın genişlemesi için temel hareketlerdendir. Barı ensenin arkasına çekmekten kaçın."
+    },
+    {
+      "name": "Reverse-Grip Lat Pulldown",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"BICEPS": 2, "BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Barı alttan tutuşla omuz genişliğinde kavra. 2. Dirseklerini gövdene yakın tutarak barı alt göğsüne doğru çek. 3. Lats ve biceps kaslarını sıkıp yavaşça bırak.",
+      "tips": "Biceps aktivasyonu daha yüksektir. Sırtını düz tut ve ağırlığı indirirken tam kontrol sağla."
+    },
+    {
+      "name": "Single-Arm Cable Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 2, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. D-tutamağı tek elinle kavra ve dik otur (veya ayakta dur). 2. Gövdeni sabit tutarak dirseğini kalçana doğru çek. 3. Sırtının o tarafını sıkarak yavaşça geri sal.",
+      "tips": "Sırt kaslarındaki asimetrileri gidermek için idealdir. Çekerken gövdeni geriye doğru çok döndürme."
+    },
+    {
+      "name": "Dumbbell Pullover",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"CHEST": 1, "TRICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Bir sehpaya sadece üst sırtın değecek şekilde (köprü pozisyonunda) yat. 2. Tek bir dambılı iki elinle göğsünün üzerinde tut. 3. Kollarını hafif bükülü tutarak dambılı başının arkasına, aşağı doğru indir. 4. Lats kaslarını kullanarak tekrar göğsünün üzerine çek.",
+      "tips": "Hareket göğüs de çalıştırır ancak kalçayı aşağı indirip gerilimi artırarak sırtı daha fazla hedefleyebilirsin."
+    },
+    {
+      "name": "Barbell Pullover",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"CHEST": 1, "TRICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Düz bir sehpaya sırtüstü uzan. 2. Hafif bir barbell veya EZ barı omuz genişliğinde tut. 3. Barı kontrollü şekilde başının gerisine indir. 4. Kanat kaslarını sıkarak göğüs hizasına geri getir.",
+      "tips": "Çok ağır kilolardan omuz sağlığı için kaçın. Kollarını düz tutmaya çalış ama dirsekleri kitleme."
+    },
+    {
+      "name": "Straight-Arm Pulldown",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"TRICEPS": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Üst makaraya düz bir bar veya halat tak. 2. Kollarını düz (veya çok hafif bükülü) tutarak barı kavra. 3. Gövdeni hafif öne eğ ve barı üst bacaklarına kadar aşağı çek. 4. Kontrollü şekilde kolları yukarı sal.",
+      "tips": "Bicepsleri devre dışı bırakarak sadece kanat kaslarını izole etmenin en iyi yollarından biridir."
+    },
+    {
+      "name": "Meadows Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 1, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barbell'ın bir ucunu sabitle (landmine). 2. Ağırlık takılı uca yan tarafınla geç. 3. Gövdeni öne eğ, barı dıştaki elinle üstten kavra. 4. Dirseğini yukarı ve geriye doğru çekerek ağırlığı kaldır. 5. Yavaşça indir.",
+      "tips": "Sırtın üst kısmı ve arka omuzlar için mükemmeldir. Çekerken gövdenin formunu bozma."
+    },
+    {
+      "name": "Rack Pull",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {"BACK": 2, "GLUTES": 1, "TRAPS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı squat rack üzerinde diz kapaklarının hemen altına veya üstüne ayarla. 2. Barı kavra ve sırtını düz tut. 3. Kalça ve bacaklarından güç alıp doğrul. 4. Tepe noktasında sırtını sıkıp barı desteklere geri bırak.",
+      "tips": "Deadlift'in üst kısmını çalıştırır, bu yüzden daha ağır kilolar kullanılabilir. Beline dikkat et."
+    },
+    {
+      "name": "Snatch-Grip Deadlift",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"HAMSTRINGS": 2, "GLUTES": 2, "LOWER_BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı standart deadlift duruşuyla geç. 2. Ellerini barın en geniş noktalarından kavra. 3. Kalçanı normalden daha aşağı indir. 4. Sırtını dümdüz tutarak barı kaldırıp ayağa kalk.",
+      "tips": "Geniş tutuş nedeniyle üst sırt ve trapezler devasa bir gerilim altında kalır. Hareket mesafesi daha uzundur."
+    },
+    {
+      "name": "Deficit Deadlift",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {"GLUTES": 2, "HAMSTRINGS": 2, "QUADS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. 3-10 cm arası yükseklikte bir plaka veya step tahtasının üzerine çık. 2. Barı klasik deadlift formunda kavra. 3. Daha derin bir pozisyondan harekete başlayarak barı kaldır. 4. Kontrollü şekilde yere bırak.",
+      "tips": "Hareket mesafesini uzatarak yerden kalkışı güçlendirir. Esnekliğin yetersizse belini zorlama."
+    },
+    {
+      "name": "Trap Bar Deadlift",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 2, "HAMSTRINGS": 1, "LOWER_BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Trap barın içine gir ve ayaklarını omuz genişliğinde aç. 2. Çömelerek yan tutamaklardan kavra. 3. Göğsünü dik tut, topuklarını yere basarak ayağa kalk. 4. Yavaşça başlangıç pozisyonuna dön.",
+      "tips": "Ağırlık merkezi vücudun tam ortasında olduğu için bele binen yükü klasik deadlift'e göre çok azaltır."
+    },
+    {
+      "name": "Seal Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 1, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Yüksek ve düz bir sehpaya yüzüstü yat. 2. Sehpanın altında duran barı kavra. 3. Kürek kemiklerini sıkarak barı sehpanın altına kadar çek. 4. Kontrollü şekilde tamamen aşağı sal.",
+      "tips": "Gövde destekli olduğu için momentum kullanmak imkansızdır, sırt kaslarını tam izole eder."
+    },
+    {
+      "name": "Machine Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 1, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Göğüs destekli kürek makinesine otur. 2. Göğsünü pede sıkıca daya ve tutamakları kavra. 3. Dirseklerini geriye doğru çekerek sırtını sık. 4. Yavaşça kollarını ileri doğru uzat.",
+      "tips": "Göğsünü destekten kaldırma. Farklı tutuş açıları kullanarak sırtın farklı bölgelerini vurabilirsin."
+    },
+    {
+      "name": "Inverted Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 1, "BICEPS": 1, "CORE": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Smith makinesi barını veya bir barı bel hizasına ayarla. 2. Barın altına gir, ayaklarını yere basıp gövdeni düz yap ve barı tut. 3. Göğsünü bara doğru çek. 4. Kontrollü şekilde kolları uzatarak aşağı in.",
+      "tips": "Gövdeni dümdüz tut. Barı ne kadar yükseğe koyarsan hareket o kadar kolaylaşır."
+    },
+    {
+      "name": "Goblet Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Bir dambılı veya kettlebell'i iki elinle göğüs hizasında dikey olarak tut. 2. Ayaklarını omuz genişliğinde aç. 3. Gövdeni dik tutarak çömel. 4. Dirseklerin dizlerinin iç kısmına geldiğinde topuklardan iterek kalk.",
+      "tips": "Ağırlığı vücuduna yakın tut. Front squat'a hazırlık için mükemmel bir form düzeltici harekettir."
+    },
+    {
+      "name": "Dumbbell Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Her iki eline birer dambıl al ve kollarını yanlara serbest bırak. 2. Ayakları omuz genişliğinde aç. 3. Dizleri bükerek ve kalçayı geriye iterek çömel. 4. Bacak kaslarını kullanarak tekrar doğrul.",
+      "tips": "Dambılların öne veya arkaya sallanmasına izin verme. Sırtını daima dik tut."
+    },
+    {
+      "name": "Sumo Squat",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 2, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Ayaklarını omuz genişliğinden epey dışarı aç ve ayak uçlarını dışarı çevir. 2. Ağırlığı bacaklarının arasında tut. 3. Dizlerini ayak uçları yönünde bükerek çömel. 4. İç bacak ve kalçayı sıkarak kalk.",
+      "tips": "İç uylukları (adduktörler) ve kalçayı daha yoğun hedefler. Dizlerinin içe çökmesini engelle."
+    },
+    {
+      "name": "Box Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Arkana uygun yükseklikte bir kutu veya sehpa koy. 2. Klasik squat formunda çömel. 3. Kalçan kutuya değdiği an durakla (oturma, sadece temas et). 4. Patlayıcı bir güçle yukarı kalk.",
+      "tips": "Geriye doğru daha fazla oturmanı sağlayarak kalça ve arka bacakları güçlendirir. Kutunun üstünde gevşeme."
+    },
+    {
+      "name": "Pause Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Normal squat formunda barı al ve çömel. 2. Çömelmenin en alt noktasında (paralel veya altı) 2-3 saniye tamamen hareketsiz bekle. 3. Kaslardaki gerginliği kaybetmeden yukarı doğru it.",
+      "tips": "Alt noktadan çıkış gücünü artırmak için harikadır. Beklerken karın kaslarını salma."
+    },
+    {
+      "name": "Sissy Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Ayaklarını kalça genişliğinde aç. 2. Dizlerini ileri doğru iterken omuzlarını ve gövdeni geriye doğru yasla. 3. Topuklarını yerden kaldır. 4. Kuadrisepslerini sıkarak tekrar başlangıç pozisyonuna dön.",
+      "tips": "Diz eklemi için zorlayıcıdır, eğer diz sorunların varsa kaçın. Özel Sissy Squat makinesiyle de yapılabilir."
+    },
+    {
+      "name": "Step-Up",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Bir sehpanın veya kutunun önüne geç, ellerine dambıllar al. 2. Bir ayağını kutunun üzerine sağlamca bas. 3. Kutuya bastığın ayağınla iterek vücudunu yukarı kaldır. 4. Yavaşça ve kontrollü bir şekilde yere in.",
+      "tips": "Arka bacağından ivme alma, bütün işi kutunun üstündeki bacağının yapmasını sağla."
+    },
+    {
+      "name": "Reverse Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Dik dur ve elinde dambılları tut. 2. Bir ayağınla geriye doğru adım at ve çömel. 3. Arka dizin yere değmesine ramak kala dur. 4. Öndeki topuğundan güç alarak başlangıca dön.",
+      "tips": "Öne lunge hareketine göre dizlere daha az baskı yapar ve dengesi daha kolaydır."
+    },
+    {
+      "name": "Lateral Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Ayakta dik dur, ağırlığı göğüs hizasında veya yanlarda tut. 2. Yana doğru geniş bir adım at. 3. Adım attığın bacağın dizini bükerek çömel, diğer bacağını düz tut. 4. İterek başlangıca dön.",
+      "tips": "İç bacak (adduktör) esnekliği gerektirir. Çömeldiğin tarafta gövdenin formunu dik tutmaya çalış."
+    },
+    {
+      "name": "Curtsy Lunge",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Dik durarak omuzlarını geride tut. 2. Bir ayağınla diğerinin arkasına çapraz bir şekilde adım at (reverans yapar gibi). 3. İki dizini de bükerek çömel. 4. Öndeki bacağınla iterek doğrul.",
+      "tips": "Kalçanın yan kaslarını (gluteus medius) harika çalıştırır. Diz kapağının ayak yönüyle uyumlu olmasına dikkat et."
+    },
+    {
+      "name": "Wall Sit",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtını duvara daya ve ayaklarını duvardan bir adım öne al. 2. Sandalyeye oturur gibi kayarak dizlerini 90 derece bük. 3. Sırtını düz bir şekilde duvara yaslamaya devam et. 4. Belirlenen süre boyunca bu pozisyonu koru.",
+      "tips": "Ellerini dizlerinin üzerine koyarak destek alma. Kollarını öne uzat veya yanlarda serbest bırak."
+    },
+    {
+      "name": "Single-Leg Press",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Leg press makinesine otur, sadece bir ayağını platforma yerleştir. 2. Kontrollü bir şekilde ağırlığı göğsüne doğru indir. 3. Topuğundan iterek bacağını düzleştir (dizi kilitleme). 4. Diğer bacak için tekrarla.",
+      "tips": "Bacaklar arası kuvvet eşitsizliklerini gidermek için idealdir. Boştaki bacağını güvenli bir yere koy."
+    },
+    {
+      "name": "Landmine Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barın boştaki ucunu iki elinle göğüs hizasında tut. 2. Ayaklarını omuz genişliğinde aç. 3. Gövdeni dik tutarak çömel. 4. Güçlü bir şekilde yukarı iterek kalk.",
+      "tips": "Kavisli hareketi sayesinde squat yaparken beli ağrıyanlar için çok daha güvenli bir alternatiftir."
+    },
+    {
+      "name": "Belt Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Ağırlık kemerini beline bağla ve makinenin (veya iki sehpanın arası) platformuna geç. 2. Omurganda ağırlık olmadan normal squat formunda çömel. 3. Bacak kaslarını sıkarak ayağa kalk.",
+      "tips": "Üst gövdeye ve omurgaya sıfır yük bindirerek bacakları tükenişe götürmek için mükemmeldir."
+    },
+    {
+      "name": "Safety Bar Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Safety squat barının omuz desteklerine gir ve tutamakları kavra. 2. Normal back squat formunda kalçayı geriye iterek çömel. 3. Yukarı doğru iterek kalk.",
+      "tips": "Ağırlık merkezi öne kaydığı için front squata benzer şekilde kuadriseps ve core bölgesini çok zorlar. Omuz sakatlıklarında hayat kurtarır."
+    },
+    {
+      "name": "Single-Leg Leg Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"CALVES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Leg curl makinesine yüzüstü veya oturarak geç. 2. Sadece bir bacağının arkasına pedi ayarla. 3. Ağırlığı kalçana doğru çek. 4. Kontrollü bir şekilde başlangıca dön.",
+      "tips": "Arka bacaklardaki dengesizlikleri eşitlemek için kullanılır. Ağırlığı bırakırken yavaş ol."
+    },
+    {
+      "name": "Seated Leg Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"CALVES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve üst uyluk pedini iyice sıkıştır. 2. Bacaklarını düz uzatarak ayak bileklerini pedin üzerine koy. 3. Bacaklarını dizden bükerek aşağı ve geriye doğru çek. 4. Tepe noktasında sıkarak yavaşça bırak.",
+      "tips": "Oturarak yapılan versiyon arka bacak kaslarının daha fazla esnemesini sağlayarak kas gelişimini tetikler."
+    },
+    {
+      "name": "Lying Leg Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"CALVES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye yüzüstü yat. 2. Ayak bileklerinin arka kısmını pede yerleştir. 3. Bacaklarını bükerek kalçana doğru çek. 4. Kontrollü şekilde yavaşça indir.",
+      "tips": "Kalçanın sehpadan kalkmasına izin verme, bu beli gereksiz zorlar ve hareketin etkisini düşürür."
+    },
+    {
+      "name": "Nordic Hamstring Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"GLUTES": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Dizlerinin üzerine çök ve ayak bileklerini sabitle. 2. Gövdeni dik tutarak yavaşça öne doğru düş. 3. Dizlerinden başka hiçbir eklemi bükme. 4. Ellerini yere koyup hafifçe iterek kalk.",
+      "tips": "Çok zor bir eksantrik harekettir. Sadece yavaşça düşmeye (negatif evreye) odaklanman bile yeterlidir."
+    },
+    {
+      "name": "Glute-Ham Raise",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"GLUTES": 2, "LOWER_BACK": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. GHR makinesine ayaklarını sabitle, dizlerini pedin hemen arkasına koy. 2. Gövdeni yere paralel olana kadar aşağı indir. 3. Arka bacaklarını ve kalçanı kullanarak gövdeni tekrar yukarı çek.",
+      "tips": "Nordic curl'e benzer ancak makine yardımıyla tam hareket açıklığı sağlar. Belini hiper ekstansiyona sokma."
+    },
+    {
+      "name": "Cable Front Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makarayı en alt seviyeye al ve düz bar (veya halat) tak. 2. Makineye arkanı dönerek kabloyu bacaklarının arasından al. 3. Kollarını düz tutarak barı omuz hizasına kadar kaldır. 4. Yavaşça indir.",
+      "tips": "Ön omuzlar üzerinde sürekli gerilim sağlar. Vücudunu öne arkaya sallama."
+    },
+    {
+      "name": "Cable Rear Delt Fly",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"BACK": 1, "TRAPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. İki makarayı da üst veya omuz hizasına ayarla. 2. Sağdaki kabloyu sol, soldakini sağ elinle çapraz şekilde tut. 3. Kollarını hafif bükülü şekilde yanlara ve geriye doğru aç. 4. Arka omuzu sıkarak yavaşça geri bırak.",
+      "tips": "Dambıl versiyonuna göre çok daha iyi bir kasılma hissi yaratır. Omuzları silkmekten kaçın."
+    },
+    {
+      "name": "Bent-Over Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"BACK": 1, "TRAPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Gövdeni yere paralel olana kadar öne eğ. 2. Dambılları hafif bükülü dirseklerle tut. 3. Kollarını yanlara ve geriye doğru aç. 4. Arka omuz kaslarını sıkarak başlangıca dön.",
+      "tips": "Ağırlığı sırt kaslarınla değil, arka omuz kaslarınla çekmeye odaklan."
+    },
+    {
+      "name": "Seated Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRAPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Dik açılı bir sehpaya otur ve sırtını yasla. 2. Dambılları yanlarda tut. 3. Dirseklerini hafif kırık tutarak kollarını yana doğru omuz hizasına kaldır. 4. Yavaşça ve kontrollü şekilde indir.",
+      "tips": "Oturarak yapıldığında bacaklardan momentum almak engellenir ve hareket yan omuzlara daha çok odaklanır."
+    },
+    {
+      "name": "Machine Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRAPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve kollarını pedlerin altına yerleştir. 2. Dirseklerinden güç alarak kollarını yanlara doğru kaldır. 3. Omuz hizasına gelince durakla. 4. Kontrollü şekilde başlangıca dön.",
+      "tips": "Omuz eklemini izole etmenin en güvenli yollarından biridir. Sadece dirsekleri yukarı itmeye odaklan."
+    },
+    {
+      "name": "Plate Front Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Bir ağırlık plakasını iki elinle saat 3 ve 9 yönünden (yanlardan) tut. 2. Ayakta dik dur. 3. Kollarını düz tutarak plakayı göz hizasına kadar kaldır. 4. Yavaşça uyluk hizasına indir.",
+      "tips": "Ellerin birbirine dönük (nötr tutuş) olduğu için ön omuzları dambıla göre farklı bir açıdan vurur."
+    },
+    {
+      "name": "Dumbbell Upright Row",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRAPS": 2, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Her iki eline birer dambıl al ve uyluklarının önünde tut. 2. Dambılları vücuduna yakın tutarak göğüs/çene hizasına doğru çek. 3. Dirseklerinin dambıllardan daha yukarıda olmasına dikkat et. 4. Kontrollü şekilde indir.",
+      "tips": "Dambıl kullanmak bilek ve omuz eklemine barbele göre daha fazla serbestlik ve güvenlik sağlar."
+    },
+    {
+      "name": "Cable Upright Row",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRAPS": 2, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Alt makaraya düz veya EZ bar tak. 2. Barı omuz genişliğinde veya biraz daha dar tut. 3. Dirseklerini yukarı doğru yönlendirerek barı göğsüne çek. 4. Yavaşça aşağı bırak.",
+      "tips": "Kablo boyunca sabit gerilim vardır. Çekerken omuzlarını kulaklarına doğru aşırı silkme."
+    },
+    {
+      "name": "Landmine Press (Shoulder)",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRICEPS": 1, "CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barın bir ucunu sabitle. 2. Boştaki ucu tek elinle omuz hizasında tut. 3. Barı ileri ve yukarı doğru it. 4. Kontrollü şekilde omuz hizasına geri indir.",
+      "tips": "Tam dikey bir pres olmadığı için omuz sıkışması problemi yaşayanlar için çok uygun bir harekettir."
+    },
+    {
+      "name": "Push Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRICEPS": 2, "QUADS": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı ön omuzlarının üzerine al (overhead press pozisyonu). 2. Dizlerini hafifçe bükerek kısa bir squat yap. 3. Bacaklarından aldığın patlayıcı güçle barı başının üzerine it. 4. Yavaşça omuzlarına geri indir.",
+      "tips": "Omuz presine bacakların ivmesi eklenir. Sadece kollarla itmeye çalışma, bacak gücünü kullan."
+    },
+    {
+      "name": "Cable Hammer Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Alt makaraya halat tak. 2. Halatın iki ucunu avuç içleri birbirine bakacak şekilde kavra. 3. Dirsekleri sabit tutarak halatı yukarı çek. 4. Tepe noktasında sık ve yavaşça indir.",
+      "tips": "Brachialis ve ön kol kaslarını çok iyi izole eder. Bileklerini bükme."
+    },
+    {
+      "name": "Rope Hammer Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Alt makarada halat eklentisini kullan. 2. Çekiç tutuşu ile uçları kavra. 3. Dirseklerini gövdeden ayırmadan yukarı kıvır. 4. Yavaşça başlangıca dön.",
+      "tips": "Cable Hammer Curl ile aynıdır, halat kullanarak bilek esnekliğini artırırsın."
+    },
+    {
+      "name": "Cross-Body Hammer Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Ayakta dik dur, dambılları yanlarda tut. 2. Sağ dambılı, avuç için vücuduna bakacak şekilde sol omzuna doğru çapraz kaldır. 3. İndir ve sol dambılı sağ omuzuna doğru kaldır.",
+      "tips": "Biceps kasının uzun başını ve brachialis kasını çok spesifik bir açıyla hedefler."
+    },
+    {
+      "name": "Reverse Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Dambılları avuç içlerin aşağıya (arkaya) bakacak şekilde (pronasyon) üstten kavra. 2. Dirseklerini sabit tutarak ağırlıkları yukarı kaldır. 3. Ön kollarını sıkarak yavaşça indir.",
+      "tips": "Çok ağır kilolar kullanma. Ön kollarını ve brachioradialis kasını inanılmaz derecede pompalar."
+    },
+    {
+      "name": "Reverse Barbell Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı üstten (avuç içleri yere bakacak) tutuşla kavra. 2. Dirseklerini gövdene yakın tut. 3. Barı omuz hizasına kadar yukarı doğru kıvır. 4. Kontrollü şekilde kollarını uzat.",
+      "tips": "Ağrı yapıyorsa EZ bar kullanabilirsin. Bileklerini hareket boyunca düz tutmaya özen göster."
+    },
+    {
+      "name": "Drag Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı alttan tutuşla kavra. 2. Barı kaldırırken dirseklerini geriye doğru çek. 3. Barın vücuduna sürterek (sürükleyerek) göğüs hizasına kadar gelmesini sağla. 4. Yavaşça aşağı indir.",
+      "tips": "Klasik curl'ün aksine ön omuz devre dışı kalır ve biceps tepesi harika şekilde izole olur."
+    },
+    {
+      "name": "Bayesian Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Alt makaraya arkanı dön, bir elinle D-tutamak kavra. 2. Kolun geriye doğru hafif çapraz uzansın (biceps esneyecek şekilde). 3. Dirseğini sabit tutarak kabloyu ileri ve yukarı kıvır. 4. Yavaşça geriye salarak esnemeyi hisset.",
+      "tips": "Biceps kasını uzamış pozisyondayken strese sokarak hipertrofiyi maksimize eden modern bir harekettir."
+    },
+    {
+      "name": "Machine Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur, tricepslerini pede yerleştir ve tutamakları kavra. 2. Kollarını yukarı doğru kıvırarak ağırlığı kaldır. 3. Bicepsleri sıktıktan sonra kontrollü bir şekilde indir.",
+      "tips": "Gövdeni kıpırdatmadan tam izolasyon sağla. İndirirken ağırlıkların birbirine çarpmasını bekleme."
+    },
+    {
+      "name": "21s Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barı kavra. Önce en alt noktadan dirseğin 90 derece olduğu yere kadar 7 tekrar yap. 2. Sonra 90 dereceden en tepe noktaya kadar 7 tekrar yap. 3. En son tam hareket aralığında (en alttan en tepeye) 7 tekrar yap.",
+      "tips": "Toplam 21 tekrar eder. Biceps dayanıklılığını ve pump hissini inanılmaz seviyelere taşır."
+    },
+    {
+      "name": "Prone Incline Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Eğimli sehpaya yüzüstü yat. 2. Kollarını dambıllarla birlikte yere doğru dümdüz sarkıt. 3. Dirseklerini omuz hizanla aynı çizgide tutarak dambılları yukarı kıvır. 4. Yavaşça geri sal.",
+      "tips": "Ön omuz tamamen devreden çıkar, tüm işi biceps yapar. Biceps pik noktası (tepesi) için idealdir."
+    },
+    {
+      "name": "Single-Arm Cable Pushdown",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Üst makaraya D-tutamak tak. 2. Tek elinle tutacağı kavra, avuç için aşağı (veya yana) baksın. 3. Dirseğini yanına yapıştırıp kolunu düzleşene kadar aşağı it. 4. Yavaşça geri dön.",
+      "tips": "İki kol arasındaki asimetrileri çözmek için kullanılır. Sadece triceps kasına odaklan."
+    },
+    {
+      "name": "Reverse-Grip Pushdown",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {"FOREARMS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Üst makaraya düz bir bar tak. 2. Barı alttan tutuşla (avuç içleri sana bakacak şekilde) kavra. 3. Dirseklerini sabit tutarak barı aşağı it. 4. Kontrollü şekilde başlangıca dön.",
+      "tips": "Tricepsin medial başını hedefler. Ağır kilolardan ziyade hissetmeye odaklanman gereken bir varyasyondur."
+    },
+    {
+      "name": "Bent-Over Tricep Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makarayı orta/alt seviyeye ayarla ve halat tak. 2. Makineye arkanı dön, eğilerek halatı başının arkasından iki elinle tut. 3. Dirseklerini sabit tutarak kollarını ileri doğru düzleştir. 4. Yavaşça geri dön.",
+      "tips": "Overhead extension'a benzer ancak gövde yere paralel olduğu için çekiş açısı farklı bir gerilim sunar."
+    },
+    {
+      "name": "Tate Press",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {"CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Düz sehpaya uzan, dambılları göğsünün üzerinde dik tut. 2. Dirseklerini dışa doğru açarak dambılları göğsünün ortasına doğru indir. 3. Tricepsleri kullanarak dambılları tekrar yukarı it.",
+      "tips": "İç kısımdaki triceps liflerine güçlü bir uyarı verir. Dambılların birbirine hafifçe değmesi normaldir."
+    },
+    {
+      "name": "Board Press",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {"CHEST": 2, "SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Göğsünün üzerine 1, 2 veya 3 tahta blok (board) koy. 2. Bench press pozisyonunda barı dar veya normal tut. 3. Barı tahtalara değene kadar indir. 4. Patlayıcı bir güçle yukarı it.",
+      "tips": "Hareketin kilitlenme (lockout) aşamasını güçlendirmek ve tricepsleri ağır yükle vurmak için yapılır."
+    },
+    {
+      "name": "Floor Press",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {"CHEST": 1, "SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Yere sırtüstü yat, dizlerini bük veya düz uzat. 2. Barı destekten alıp yavaşça indir. 3. Üst kollarının arkası (dirsekler) yere değdiği an dur. 4. Güçlü bir şekilde yukarı it.",
+      "tips": "Hareket açısı kısıtlı olduğu için göğsü devre dışı bırakıp tricepsleri maksimize eder."
+    },
+    {
+      "name": "Lying Dumbbell Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Sehpaya yat ve her iki elinde birer dambılı kolların yukarıda düz şekilde tut. 2. Dirseklerini sabit tutarak dambılları başının iki yanına (kulak hizasına) indir. 3. Tricepslerini sıkarak tekrar yukarı it.",
+      "tips": "Skull crusher'ın dambıl versiyonudur. Dambılları alnına değil başının biraz gerisine indirmek gerilimi artırır."
+    },
+    {
+      "name": "Single-Arm Kickback",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "DUMBBELL",
+      "instructions": "1. Bir elini ve aynı taraftaki dizini sehpaya koy. 2. Diğer elindeki dambılla dirseğini 90 derece bük ve vücuduna yapıştır. 3. Sadece ön kolunu hareket ettirerek dambılı geriye it. 4. Yavaşça indir.",
+      "tips": "Kolun tam düzleştiği o tepe noktasında 1 saniye bekleyip kasılmayı hissetmek hareketin anahtarıdır."
+    },
+    {
+      "name": "Cable Overhead Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makarayı alt seviyeye alıp halat tak. 2. Makineye arkanı dönerek halatı başının arkasından tut. 3. Dirseklerini yukarı doğru işaret edecek şekilde sabitle. 4. Kollarını yukarı doğru düzleştirerek halatı çek.",
+      "tips": "Tricepsin uzun başını mükemmel esnetir. Kollarını açarken dirseklerin dışa aşırı açılmasın."
+    },
+    {
+      "name": "Machine Tricep Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve tricepslerini (dirseklerin arkasını) pede daya. 2. Tutamakları kavra. 3. Kollarını ileri veya aşağı doğru düzleştir. 4. Kontrollü şekilde başlangıç pozisyonuna bırak.",
+      "tips": "Hareket boyunca gövdeni sabit tut. Triceps kaslarına izolasyon sağlamak için makinenin stabilizasyonundan faydalan."
+    },
+    {
+      "name": "Bicycle Crunch",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"GLUTES": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, ellerini başının arkasında birleştir. 2. Kürek kemiklerini yerden kaldır ve bacaklarını 90 derece bük. 3. Sağ dirseğini sol dizine yaklaştırırken sağ bacağını ileri doğru düz uzat. 4. Hemen taraf değiştirerek pedal çevirir gibi harekete devam et.",
+      "tips": "Hareketi hızlı değil, karın kaslarını hissederek yavaş yap. Boynunu çekiştirme."
+    },
+    {
+      "name": "Reverse Crunch",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, kollarını yanlara düz uzat. 2. Bacaklarını bükerek havaya kaldır. 3. Alt karın kaslarını sıkarak dizlerini göğsüne doğru çek ve kalçanı hafifçe yerden kaldır. 4. Yavaşça başlangıca in.",
+      "tips": "Bacakları sallayarak ivme kazanma. Bütün işi alt karın kaslarının yapmasını sağla."
+    },
+    {
+      "name": "Toe Touch Crunch",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat ve bacaklarını düz bir şekilde tavana doğru kaldır. 2. Kollarını ayak parmaklarına doğru uzat. 3. Karın kaslarını sıkarak omuzlarını yerden kaldır ve parmak uçlarına değmeye çalış. 4. Kontrollü şekilde in.",
+      "tips": "Bacaklarını düz tutamıyorsan hafif bükebilirsin, önemli olan üst bedeninle yukarı uzanmaktır."
+    },
+    {
+      "name": "V-Up",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"HAMSTRINGS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü dümdüz yat, kollarını başının gerisinde uzat. 2. Aynı anda kollarını ve düz bacaklarını havaya kaldır. 3. Vücudunla havada bir V şekli oluşturarak ellerinle ayaklarına dokun. 4. Yavaşça yere dümdüz yat.",
+      "tips": "Zor ve ileri seviye bir harekettir. Belinin yere tam oturduğundan ve kavis yapmadığından emin ol."
+    },
+    {
+      "name": "Flutter Kick",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, ellerini kalçanın altına veya yanlara yerleştir. 2. Bacaklarını düz tutarak yerden birkaç santim kaldır. 3. Sağ ve sol bacağını sırayla aşağı yukarı makas gibi salla. 4. Belirtilen süre boyunca yap.",
+      "tips": "Bel boşluğunun oluşmamasına dikkat et. Belin kalkıyorsa bacaklarını biraz daha yüksekte salla."
+    },
+    {
+      "name": "Scissor Kick",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, bacakları hafifçe yerden kaldır. 2. Bacaklarını düz tutarak yanlara doğru aç. 3. Bir bacak diğerinin üstünden geçecek şekilde bacaklarını çaprazla. 4. Aç ve bu kez diğer bacak üstten geçecek şekilde tekrar çaprazla.",
+      "tips": "Flutter kick'e benzer ancak hareket yukarı aşağı değil, sağa sola çaprazlama şeklindedir."
+    },
+    {
+      "name": "Mountain Climber",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1, "QUADS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Şınav (yüksek plank) pozisyonu al. 2. Sağ dizini göğsüne doğru hızlıca çek. 3. Sağ bacağı geri atarken eş zamanlı sol dizini göğsüne çek. 4. Koşar adımlarla tempoyu artır.",
+      "tips": "Kalçanın yukarı fırlamasına izin verme, vücudun düz çizgisini koru. Kardiyovasküler etkili bir karın egzersizidir."
+    },
+    {
+      "name": "Dead Bug",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, kollarını havaya dik uzat, dizlerini 90 derece bük. 2. Sağ kolunu geriye indirirken sol bacağını da ileriye doğru dümdüz yere yaklaştır. 3. Başlangıç pozisyonuna dön. 4. Sol kol ve sağ bacak ile tekrarla.",
+      "tips": "Hareket boyunca belinin yere tamamen yapışık olduğundan emin ol. Odaklanma ve koordinasyon gerektirir."
+    },
+    {
+      "name": "Bird Dog",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"LOWER_BACK": 2, "GLUTES": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Ellerinin ve dizlerinin üzerinde emekleme pozisyonu al. 2. Sağ kolunu ileri düz uzatırken aynı anda sol bacağını geriye doğru düz uzat. 3. Birkaç saniye bekle ve başlangıca dön. 4. Diğer taraf için tekrarla.",
+      "tips": "Omurganı nötr (düz) tut, belini aşağı çukurlaştırma. Denge ve core stabilitesi için mükemmeldir."
+    },
+    {
+      "name": "Pallof Press",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Kablo makinesine yan dönerek dur. D-tutamağı göğüs hizasında iki elinle tut. 2. Kabloyu çeken yöne direnerek kollarını ileri doğru düzleştir. 3. Bir saniye bekle ve göğsüne geri çek.",
+      "tips": "Bu bir anti-rotasyon hareketidir. Amacın kablonun seni döndürmesine engel olup merkez böleni sıkı tutmaktır."
+    },
+    {
+      "name": "Hollow Body Hold",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat. 2. Kollarını başının gerisine uzat. 3. Bacaklarını bitişik düz tutarak yerden hafifçe kaldır. Aynı anda omuzlarını da yerden kaldır. 4. Vücudun bir muz (veya kayık) şeklini alsın, bu pozisyonda bekle.",
+      "tips": "Jimnastikçilerin temel pozisyonudur. Belinin yere adeta preslendiğinden emin ol."
+    },
+    {
+      "name": "L-Sit",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"TRICEPS": 1, "QUADS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Paralel barlara, yere veya sehpaya otur, ellerin kalçanın yanlarında olsun. 2. Kollarınla iterek gövdeni kaldır. 3. Bacaklarını düz tutarak yere paralel (L harfi yapacak) şekilde kaldır. 4. Dayanabildiğin kadar bekle.",
+      "tips": "İnanılmaz bir core ve omuz kuvveti gerektirir. Bacaklarını düz tutamıyorsan dizlerin bükülü (tuck hold) başlayabilirsin."
+    },
+    {
+      "name": "Windshield Wiper",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"LATS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, kolları T şeklinde yanlara aç, bacakları dik olarak havaya kaldır (veya barfikse asıl). 2. Bacakları birleşik tutarak kontrollü bir şekilde sağa doğru yere yaklaştır. 3. Sonra sola doğru silecek gibi devir.",
+      "tips": "Oblik kasları için çok ileri seviyedir. Omuzlarının yerden kalkmasına izin verme."
+    },
+    {
+      "name": "Tuck Crunch",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yere otur ve ellerini kalçanın arkasına yere koyarak destek al. 2. Gövdeni hafif geriye yatırıp bacakları havaya kaldır. 3. Dizlerini göğsüne çekerken gövdeni de dizlerine doğru yaklaştır. 4. Açıl ve tekrarla.",
+      "tips": "Bacakların yere değmesine izin verme. V-Up hareketinin diz bükülü, daha kolay bir versiyonudur."
+    },
+    {
+      "name": "Decline Sit-Up",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Aşağı eğimli (decline) bir mekiğe ayaklarını sabitleyerek yat. 2. Ellerini göğsünde çaprazla veya kulaklarının yanında tut. 3. Tüm gövdeni dizlerine doğru kaldırarak otur. 4. Yavaşça geri yat.",
+      "tips": "Açıdan dolayı klasik mekikten çok daha zorlayıcıdır. Belin ağrıyorsa hareketi yarım yap veya bırak."
+    },
+    {
+      "name": "Weighted Crunch",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Sırtüstü yat ve dizlerini bük. 2. Bir ağırlık plakasını veya dambılı göğsünün üzerinde tut. 3. Sadece üst sırtını ve omuzlarını yerden kaldırarak karın kaslarını sık. 4. Yavaşça geri in.",
+      "tips": "Karın kaslarının daha hacimli (belirgin baklavalar) olması için ağırlıklı çalışmak çok önemlidir."
+    },
+    {
+      "name": "Cable Woodchop",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Makarayı en üst konuma ayarla. 2. İki elinle tutamağı kavrayıp makineye yan dön. 3. Odun keser gibi çaprazlama, aşağı ve diğer tarafa doğru gövdeni döndürerek kabloyu çek. 4. Kontrollü şekilde geri dön.",
+      "tips": "Oblik kaslarını rotasyonel olarak çalıştırır. Kollarından ziyade gövdenin dönme kuvvetini kullan."
+    },
+    {
+      "name": "Landmine Rotation",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "BARBELL",
+      "instructions": "1. Barın boştaki ucunu iki elinle başının hafif üstünde tut. Ayaklarını omuz genişliğinde aç. 2. Kollarını düz tutarak barı sağ kalçana doğru yarım daire çizerek indir. 3. Hızlıca yukarı çevirip sol kalçana indir.",
+      "tips": "Gövdeni çok fazla döndürme, kollar hareket ederken core bölgen bu harekete direnmelidir."
+    },
+    {
+      "name": "Plank Shoulder Tap",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Şınav pozisyonu (yüksek plank) al. 2. Kalçanı hiç oynatmadan sağ elini kaldırıp sol omuzuna dokun. 3. Sağ elini indir ve sol elinle sağ omuzuna dokun. 4. Değiştirerek devam et.",
+      "tips": "Elini her kaldırdığında vücudun sağa sola yalpalamak isteyecektir; karın kaslarını sıkarak vücudunu taş gibi sabit tut."
+    },
+    {
+      "name": "Plank Hip Dip",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Dirseklerinin üzerinde standart plank pozisyonu al. 2. Kalçanı sağa doğru yere yaklaşana kadar devir. 3. Ortaya gel ve kalçanı sola doğru devir. 4. Sağa sola dönerek devam et.",
+      "tips": "Yan karın (oblik) kasları için dinamik bir plank türüdür. Ayak parmak uçlarının yeri kavramasına özen göster."
+    },
+    {
+      "name": "Banded Glute Bridge",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "RESISTANCE_BAND",
+      "instructions": "1. Dizlerinin biraz üstüne direnç bandı geçir. 2. Sırtüstü yatıp dizleri bük. 3. Dizlerini dışa doğru iterek bandı ger. 4. Kalçanı yukarı kaldırıp sık, yavaşça in.",
+      "tips": "Bandı germek kalçanın yan kaslarını (gluteus medius) harika şekilde aktive eder."
+    },
+    {
+      "name": "Single-Leg Hip Thrust",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"HAMSTRINGS": 1, "CORE": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtını bir sehpaya daya, bir bacağını havada veya düz uzatmış şekilde tut. 2. Yerdeki topuğundan güç alarak kalçanı yukarı it. 3. Vücudun düz bir çizgi olunca kalçayı sık ve yavaşça in.",
+      "tips": "Sadece vücut ağırlığıyla bile kalça kaslarını inanılmaz şekilde yoran tek taraflı bir harekettir."
+    },
+    {
+      "name": "Frog Pump",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Sırtüstü yat, ayak tabanlarını kurbağa gibi birbirine yapıştır ve dizleri yanlara aç. 2. Ayaklarının dış kısımlarından yeri iterek kalçanı yukarı kaldır. 3. Üstte kalçayı sıkıp in.",
+      "tips": "Kalçayı çok kısa bir açıda izole eder. Arka bacağı tamamen devre dışı bırakır."
+    },
+    {
+      "name": "Clamshell",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yan yat, dizlerini üst üste koyarak 90 derece bük. 2. Ayaklarını birbirinden ayırmadan üstteki dizini midye kabuğu gibi yukarı aç. 3. Kalça yanını sıkarak yavaşça kapat.",
+      "tips": "Gövdenin geriye devrilmemesine çok dikkat et. Zorlaştırmak için dizlerin üstüne direnç bandı takabilirsin."
+    },
+    {
+      "name": "Fire Hydrant",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Emekleme pozisyonu al. 2. Bir dizini yana ve yukarı doğru (köpeklerin ağaca işemesi gibi) aç. 3. Kalçanın yan kısmını sık. 4. Yavaşça indir.",
+      "tips": "Hareketi yaparken gövdeni sağa sola yatırma, sadece bacağın hareket etsin."
+    },
+    {
+      "name": "Banded Lateral Walk",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "WEIGHT_DISTANCE",
+      "equipment": "RESISTANCE_BAND",
+      "instructions": "1. Ayak bileklerine veya diz üstüne direnç bandı geçir. 2. Hafif çömelme (yarım squat) pozisyonu al. 3. Yana doğru gergin adımlar at. 4. Bir yöne birkaç adım gittikten sonra diğer yöne dön.",
+      "tips": "Dizlerinin içeri çökmesine asla izin verme, her adımda dizinle bandı dışa doğru it."
+    },
+    {
+      "name": "Banded Monster Walk",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "WEIGHT_DISTANCE",
+      "equipment": "RESISTANCE_BAND",
+      "instructions": "1. Direnç bandını bileklerine tak ve yarım squat yap. 2. Bacaklarını geniş tutarak öne doğru çapraz ve büyük adımlar atarak yürü. 3. Belirli bir mesafe sonra geriye doğru aynı şekilde yürü.",
+      "tips": "Kalça kaslarını ısıtmak ve aktive etmek için mükemmeldir. Ayaklarını birbirine yaklaştırmamaya çalış."
+    },
+    {
+      "name": "Standing Kickback (Cable)",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "CABLE",
+      "instructions": "1. Alt makaraya ayak bilekliği tak ve ayak bileğine geçir. 2. Makineye dönerek ellerinle destek al. 3. Bacağını düz (veya hafif bükülü) şekilde geriye doğru it. 4. Kalçanı sıkarak yavaşça geri sal.",
+      "tips": "Belinden güç alarak savurma yapma. Hareket kısa ve sadece kalçaya odaklı olmalıdır."
+    },
+    {
+      "name": "Hip Abduction Machine",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve pedlerin dış kısmına bacaklarını daya. 2. Dizlerini kullanarak pedleri iki yana doğru iterek aç. 3. Kalçanın dış kısımlarını sık. 4. Kontrollü şekilde bacaklarını kapat.",
+      "tips": "Gövdeni hafif öne eğmek, gluteus medius kasını daha iyi hedeflemene yardımcı olabilir."
+    },
+    {
+      "name": "Hip Adduction Machine",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "MACHINE",
+      "instructions": "1. Makineye otur ve pedleri bacaklarının iç kısmına yerleştir. 2. Bacaklarını dışarıdan içeriye doğru sıkarak kapat. 3. İç bacak kaslarını sıkarak durakla. 4. Yavaşça bacakları geri aç.",
+      "tips": "İç bacak (adductor) kasları için izole bir makinedir. Çok hızlı açıp kapatarak kaslarına zarar verme."
+    }
+  ]

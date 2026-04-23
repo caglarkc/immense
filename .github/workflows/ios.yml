@@ -1,0 +1,42 @@
+# iOS artifacts (Generated.xcconfig, Pods, xcfilelists) are not committed.
+# This job runs on macOS so Flutter + CocoaPods can recreate them on every push.
+name: iOS
+
+on:
+  push:
+    branches: [main, master, develop]
+    paths:
+      - 'frontend/**'
+      - '.github/workflows/ios.yml'
+      - 'frontend/ios/ci_scripts/**'
+  pull_request:
+    paths:
+      - 'frontend/**'
+      - '.github/workflows/ios.yml'
+      - 'frontend/ios/ci_scripts/**'
+
+jobs:
+  build:
+    runs-on: macos-latest
+    defaults:
+      run:
+        working-directory: frontend
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - run: flutter --version
+
+      - name: Generate Flutter iOS config and install pods
+        run: |
+          flutter pub get
+          cd ios
+          pod install
+
+      - name: Compile iOS (no code signing)
+        run: flutter build ios --release --no-codesign

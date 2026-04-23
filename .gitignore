@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Secrets and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+id_rsa
+id_rsa.pub
+*.kubeconfig
+*.ovpn
+credentials.json
+service-account*.json
+firebase-adminsdk*.json
+secrets*.json
+*.secret

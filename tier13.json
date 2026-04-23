@@ -1,0 +1,587 @@
+[
+    {
+      "name": "Arm Circle",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Ayakta dik dur ve kollarını yere paralel olacak şekilde iki yana aç. 2. Kollarınla küçük veya büyük daireler çizerek öne doğru çevir. 3. Belirli bir süre sonra geriye doğru daireler çiz.",
+      "tips": "Omuz eklemini ısıtmak için harikadır. Daireleri yaparken boynunu ve omuzlarını kasmamaya özen göster."
+    },
+    {
+      "name": "Leg Swing (Forward)",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"QUADS": 1, "GLUTES": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Destek için bir duvara veya direğe tutun. 2. Düz durarak bir bacağını öne ve geriye doğru bir sarkaç gibi salla. 3. Gittikçe bacağını daha yükseğe kaldırmaya çalış.",
+      "tips": "Dinamik bir ısınmadır, kalça fleksörleri ve arka bacakları açar. Gövdeni sabit tut, sadece bacağın sallansın."
+    },
+    {
+      "name": "Leg Swing (Lateral)",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yüzünü duvara dön ve iki elinle destek al. 2. Bir bacağını vücudunun önünden çaprazlama sağa ve sola doğru salla. 3. Hareketi kalçadan hisset.",
+      "tips": "İç ve dış bacak (adductor/abductor) kaslarını esnetir. Bacağını savururken belini bükmemeye çalış."
+    },
+    {
+      "name": "Hip Circle",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"GLUTES": 1, "LOWER_BACK": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Ayaklarını omuz genişliğinde aç ve ellerini beline koy. 2. Kalçanla hayali bir hulahop çeviriyormuş gibi geniş daireler çiz. 3. Önce saat yönünde, sonra tersine yap.",
+      "tips": "Bel ve kalça eklemini rahatlatmak için idealdir. Dizlerini çok hafif bükülü tutabilirsin."
+    },
+    {
+      "name": "Thoracic Rotation",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yere emekleme pozisyonunda veya lunge pozisyonunda dur. 2. Bir elini ensene veya başının arkasına koy. 3. Dirseğini içe doğru kıvırdıktan sonra gövdeni döndürerek tavana doğru açıl.",
+      "tips": "Sırtın üst kısmı (torasik omurga) için harika bir mobilite hareketidir. Bakışların hareket eden dirseğini takip etsin."
+    },
+    {
+      "name": "World's Greatest Stretch",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"QUADS": 1, "GLUTES": 1, "CORE": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. İleriye doğru büyük bir lunge adımı at. 2. Öndeki ayağının iç kısmına aynı taraftaki dirseğini yaklaştırıp yere değdirmeye çalış. 3. Sonra o kolunu yukarı (tavana) kaldırarak gövdeni döndür.",
+      "tips": "Tüm vücudu aynı anda esneten muazzam bir harekettir. Arka bacağının dizini yere değdirmemeye çalış."
+    },
+    {
+      "name": "Inchworm",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"HAMSTRINGS": 2, "SHOULDERS": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Ayakta dik dur, bacaklarını düz tutarak öne eğil ve ellerini yere koy. 2. Ellerini öne doğru yürüterek şınav (plank) pozisyonuna gel. 3. Bacaklarını düz tutarak ayaklarını ellerine doğru ufak adımlarla yürüt.",
+      "tips": "Arka bacak esnekliği ve merkez bölge ısınması için idealdir. Belini aşağı sarkıtma."
+    },
+    {
+      "name": "Lateral Shuffle",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2, "CALVES": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yarım squat pozisyonu al, kalçanı geriye at. 2. Ayaklarını birbirine çarptırmadan yana doğru hızlı ve yana kayar gibi adımlar at. 3. Belirli bir mesafe gidip ters yöne dön.",
+      "tips": "Atletik performansı artırır. Omuzların ve gövden yere paralel kalmasın, dik dur."
+    },
+    {
+      "name": "Carioca",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"GLUTES": 1, "QUADS": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yana doğru koşarken bacaklarını sırayla önden ve arkadan çapraz at. 2. Gövdeni sabit tutmaya çalışırken kalçanı hareket ettir. 3. Akıcı bir tempoyla hareketi sürdür.",
+      "tips": "Koordinasyon, kalça mobilitesi ve ayak çabukluğu için ısınma olarak kullanılır."
+    },
+    {
+      "name": "High Knee Skip",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"CALVES": 2, "CORE": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. İleri doğru sekerken dizlerini sırayla göğsüne doğru mümkün olduğunca yüksek çek. 2. Her adımda zıt kolunu da yukarı doğru savur.",
+      "tips": "Patlayıcılığı artırır. Yere sadece ayak parmak ucu ve pençenle temas et, topuk basma."
+    },
+    {
+      "name": "A-Skip",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"CALVES": 1, "HAMSTRINGS": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. İleri doğru hafif tempoda sekerek ilerle. 2. Sektiğin bacağını dizden bükerek karnına çek ve ayağını yere hızlıca (pençe atar gibi) bas.",
+      "tips": "Sprint mekaniğini geliştiren ritmik bir harekettir. Postürünü her zaman dik tut."
+    },
+    {
+      "name": "B-Skip",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"QUADS": 1, "CALVES": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. A-Skip gibi dizini karnına çek. 2. Dizin tepedeyken bacağını ileri doğru düz bir şekilde uzat. 3. Ayağını geriye doğru (yeri kazır gibi) yere bas.",
+      "tips": "Arka bacağı aktif olarak devreye sokar. Bacağını çok zorlamadan akıcı savur."
+    },
+    {
+      "name": "Karaoke Run",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"GLUTES": 1, "QUADS": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Carioca hareketinin koşu versiyonudur. 2. Dizleri daha fazla bükerek ve bacakları geniş çaprazlayarak yana doğru koş. 3. Üst gövde sabitken alt gövdeyi rotasyona sok.",
+      "tips": "Yön değiştirme hızını ve kalça rotasyonunu geliştirir."
+    },
+    {
+      "name": "Toy Soldier Walk",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "DISTANCE_TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. İleri doğru yürürken bacaklarını dizden bükmeden dümdüz havaya kaldır. 2. Zıt kolunla kaldırdığın ayağının parmak ucuna dokunmaya çalış.",
+      "tips": "Arka bacaklar (hamstring) için dinamik bir esnemedir (Frankenstein Walk olarak da bilinir)."
+    },
+    {
+      "name": "Lunge with Twist",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"CORE": 2, "GLUTES": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. İleriye lunge adımı at. 2. Çömeldiğin pozisyonda gövdeni öndeki bacağının tarafına doğru çevir. 3. Merkeze dön ve diğer bacakla tekrarla.",
+      "tips": "Hem bacakları ısıtır hem de omurga rotasyonunu sağlar. Dengeyi kaybetme."
+    },
+    {
+      "name": "Hip Flexor Stretch",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Bir dizinin üzerine çök, diğer ayağını öne bas (yarım lunge pozisyonu). 2. Kalçanı sık ve gövdeni dik tutarak pelvisini (leğen kemiğini) hafifçe ileri it. 3. Esnemeyi hisset ve bekle.",
+      "tips": "Kalça fleksörleri için temel esnemedir. Belini aşırı çukurlaştırma, hareketi kalçayı öne iterek bul."
+    },
+    {
+      "name": "Pigeon Pose",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"LOWER_BACK": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yere otur ve bir bacağını önüne 90 derece (veya bükülü) yerleştir. 2. Diğer bacağını arkaya dümdüz uzat. 3. Gövdeni öndeki bacağının üzerine doğru yavaşça yatırarak esne.",
+      "tips": "Kalça ve piriformis kasını derinlemesine esnetir. Dizine çok yük biniyorsa açıyı daralt."
+    },
+    {
+      "name": "Couch Stretch",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Duvara veya bir sehpaya arkanı dön, bir dizini yere koyup o ayağının üstünü duvara daya. 2. Diğer ayağını öne bas. 3. Gövdeni dikleştirerek üst bacağında derin esnemeyi hisset.",
+      "tips": "Kuadriseps ve kalça fleksörleri için en acı verici ama en etkili esneme hareketlerinden biridir."
+    },
+    {
+      "name": "Ankle Mobility Drill",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": {},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Duvara yarım metre mesafede lunge pozisyonu al. 2. Öndeki ayağının topuğunu yerden kaldırmadan dizini duvara doğru itmeye çalış. 3. Geri dön ve tekrarla.",
+      "tips": "Squat derinliğini (dorsifleksiyon) artırmak için ayak bileği hareketliliğini sağlar."
+    },
+    {
+      "name": "Thoracic Extension (Foam Roller)",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LOWER_BACK": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Köpük silindiri (foam roller) kürek kemiklerinin hizasında sırtının altına al. 2. Ellerini ensende birleştir. 3. Kalçanı yerde tutarak sırtını silindirin gerisine doğru yavaşça esnetip açıl.",
+      "tips": "Masa başı çalışanlar veya kambur duruşlu olanlar için mucizevidir. Belinin altına koyma, sadece üst sırta uygula."
+    },
+    {
+      "name": "Lat Stretch",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Bir kapı pervazına veya dikey bir direğe tutun. 2. Tutunduğun tarafın bacağını geriye doğru at. 3. Kalçanı geriye ve yana doğru iterek kanat kasında (koltuk altında) gerilimi hisset.",
+      "tips": "Sırt antrenmanları sonrası kası uzatmak ve rahatlatmak için harikadır."
+    },
+    {
+      "name": "Pec Stretch",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Kolunu 90 derece bükerek bir duvara veya kapı eşiğine daya. 2. Göğsünü dışarı çıkarıp gövdeni kolunun tersi yöne doğru yavaşça döndür. 3. Esnemeyi bekle.",
+      "tips": "Omuzlarını kulaklarına çekmeden rahat bırak. Kasları zorlayacak kadar değil, tatlı bir esneme hissedecek kadar dön."
+    },
+    {
+      "name": "Shoulder Dislocate",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CHEST": 1, "BACK": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Bir PVC boru, süpürge sapı veya direnç bandını genişçe tut. 2. Kollarını düz tutarak önden başının üzerinden geriye (kalçana kadar) aşırt. 3. Tekrar öne getir.",
+      "tips": "Adı korkutucu olsa da omuz sağlığı için mükemmeldir. Kollarını bükmemek için tutuş genişliğini kendine göre ayarla."
+    },
+    {
+      "name": "90/90 Hip Stretch",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"CORE": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yere otur, öndeki bacağını 90 derece bükerek yana yatır. 2. Arkadaki bacağını da yana açarak 90 derece bük (gamalı haç şekli). 3. Gövdeni öndeki veya arkadaki bacağına doğru döndürerek kalça rotatörlerini esnet.",
+      "tips": "Kalça hareketliliği (internal ve eksternal rotasyon) için en popüler fonksiyonel esnemedir."
+    },
+    {
+      "name": "Frog Stretch",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"QUADS": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Dizlerinin üzerine çök, dizlerini ve ayaklarını gidebildiği kadar yanlara doğru ayır (kurbağa gibi). 2. Dirseklerini yere koyarak kalçanı yavaşça geriye, topuklarına doğru it.",
+      "tips": "İç bacak (adductor) kasları ve kasık bölgesini inanılmaz esnetir. Yavaş ve dikkatli yap."
+    },
+    {
+      "name": "Pancake Stretch",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"LOWER_BACK": 1, "GLUTES": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yere otur ve bacaklarını V şeklinde (olabildiğince geniş) aç. 2. Gövdeni dik tutarak belinden öne doğru yavaşça katlan. 3. Ellerini ileri uzatarak göğsünü yere (krep gibi) yapıştırmaya çalış.",
+      "tips": "Çok iyi bir arka zincir esnekliği ister. Sırtını yuvarlayarak değil, göbeğini yere yaklaştırarak esne."
+    },
+    {
+      "name": "Jefferson Curl",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {"HAMSTRINGS": 2, "BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "KETTLEBELL",
+      "instructions": "1. Bir yüksekliğe (kutu/sehpa) çık, eline hafif bir kettlebell veya bar al. 2. Çeneni göğsüne daya ve sırtını omur omur yuvarlayarak yavaşça aşağı sark. 3. Arka bacaklar dümdüz kalsın. 4. Aşağıdan yukarıya yine omur omur düzelerek kalk.",
+      "tips": "Klasik ağırlık kaldırmanın aksine sırt kasten yuvarlanır (fleksiyon) ki omurga mobilite kazansın. Çok hafif kilolarla başlanmalıdır."
+    },
+    {
+      "name": "Wall Ankle Stretch",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": {},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Yüzün duvara dönük dur. 2. Bir ayağının parmak uçlarını duvara, topuğunu yere daya. 3. Bacağını düz tutarak gövdeni duvara doğru yaklaştırıp baldırı esnet.",
+      "tips": "Basit ve etkili bir kalf esnetmesidir. Aşil tendonu ve baldır kaslarını uzatır."
+    },
+    {
+      "name": "Cat-Cow",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {"CORE": 1, "BACK": 1},
+      "type": "BODYWEIGHT_REPS",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Eller ve dizler üzerinde emekleme pozisyonu al. 2. Derin nefes alarak belini çukurlaştırıp başını yukarı kaldır (İnek). 3. Nefes vererek sırtını tavana doğru kamburlaştırıp çeneni göğsüne çek (Kedi).",
+      "tips": "Omurga sağlığı için her sabah yapılabilecek kusursuz bir geçiş esnemesidir."
+    },
+    {
+      "name": "Child's Pose",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LOWER_BACK": 2, "GLUTES": 1},
+      "type": "TIME",
+      "equipment": "BODYWEIGHT",
+      "instructions": "1. Dizlerinin üzerine çök, kalçanı topuklarına doğru indir. 2. Kollarını öne doğru alabildiğine uzatıp alnını yere daya. 3. Sırt ve bel kaslarının uzamasını hissederek dinlen.",
+      "tips": "Antrenman sonu nabzı düşürmek ve alt sırt gerginliğini atmak için mükemmeldir."
+    },
+    {
+      "name": "Plate Front Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Bir ağırlık plakasını iki yanından (saat 3 ve 9 pozisyonunda) ellerinle sıkıca kavra. 2. Kollarını düz tutarak plakayı göz hizasına kadar kaldır. 3. Yavaşça indir.",
+      "tips": "Ön omuz kaslarını çalıştırırken aynı zamanda ellerini sıkıştırman göğüs kaslarını da aktif eder."
+    },
+    {
+      "name": "Plate Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRAPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. İki eline küçük/hafif birer plaka al. 2. Kollarını dirsekten hafif bükülü tutarak yanlara doğru omuz hizasına kaldır. 3. Yavaşça indir.",
+      "tips": "Dambıla göre farklı bir kavrama hissi verir, yan omuzları hedefler."
+    },
+    {
+      "name": "Plate Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": {"FOREARMS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı iki yanından kavra, kollarını düz sarkıt. 2. Dirseklerini yanlarında sabit tutarak plakayı yukarı (göğsüne doğru) kıvır. 3. Kontrollü indir.",
+      "tips": "Ön kolları ve brachialis kasını çok yoğun çalıştıran bir dambıl/barbell curl alternatifidir."
+    },
+    {
+      "name": "Plate Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"LATS": 1, "BICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Ağır bir plakayı iki yanından veya ortasındaki delikten kavra. 2. Gövdeni öne eğ, sırt düz. 3. Plakayı karnına doğru çek. 4. Kürek kemiklerini sıkıştırıp bırak.",
+      "tips": "Ekipman kısıtlı olduğunda dambıl row yerine iyi bir fonksyionel sırt çekişidir."
+    },
+    {
+      "name": "Plate Overhead Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"TRICEPS": 2, "CHEST": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı göğüs hizasında iki elinle tut. 2. Karın kaslarını sıkarak plakayı dümdüz başının üzerine it. 3. Omuzları kilitleyip yavaşça indir.",
+      "tips": "Geniş plakalarda yüzüne çarpmamasına dikkat et. Omuz presi için etkili bir çeşitliliktir."
+    },
+    {
+      "name": "Plate Pinch Carry",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": {"TRAPS": 1, "CORE": 1},
+      "type": "TIME_WEIGHT",
+      "equipment": "PLATE",
+      "instructions": "1. Her iki eline bir veya birkaç adet düz yüzeyli plaka al. 2. Plakaları sadece parmaklarınla (pinch/çimdik tutuşu) sıkıştırarak tut. 3. Kollar yanda düzken belirlenen süre/mesafe yürü.",
+      "tips": "Kavrama kuvvetini çelik gibi yapmak için parmak gücüne odaklanan özel bir harekettir."
+    },
+    {
+      "name": "Plate Push (Floor)",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1, "SHOULDERS": 1},
+      "type": "WEIGHT_DISTANCE",
+      "equipment": "PLATE",
+      "instructions": "1. Zemine ağır bir plaka (veya altı havlulu) koy. 2. Arkasına geçip ellerinle veya omuzlarınla uyarla. 3. Şınav/koşu pozisyonunda bacaklarından güç alarak plakayı ileri doğru sür.",
+      "tips": "Kızak (sled) itmenin bulunmadığı yerlerde, dayanıklılık ve bacak itiş gücü için muazzamdır."
+    },
+    {
+      "name": "Plate Romanian Deadlift",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": {"GLUTES": 2, "LOWER_BACK": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Ağır bir plakayı gövdenin önünde kavra. 2. Bacaklarını düz/hafif bükülü tutarak kalçanı geriye at ve eğil. 3. Arka bacak kasılmasını hissedip doğrul.",
+      "tips": "Plakayı vücuduna yakın (bacaklarına sürterek) indirip kaldır."
+    },
+    {
+      "name": "Plate Hip Thrust",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": {"HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Sehpaya sırtını daya, kalça kıvrımına bir plaka yerleştir. 2. Plakayı ellerinle destekleyerek kalçanı yukarı it. 3. Üst noktada kalçayı sıkıp in.",
+      "tips": "Barbell kurmanın zor olduğu zamanlarda veya set sonu tükenişlerinde çok pratiktir."
+    },
+    {
+      "name": "Plate Around the World",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı iki elinle tut, ayakta dik dur. 2. Plakayı başının etrafında 360 derece döndürerek bir tur attır. 3. Tur tamamlanınca yön değiştir.",
+      "tips": "Hem omuz eklemlerini hareketlendirir hem de core stabilizasyonunu sınar."
+    },
+    {
+      "name": "Plate Good Morning",
+      "primaryMuscle": "LOWER_BACK",
+      "secondaryMuscles": {"HAMSTRINGS": 2, "GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı göğsüne sarılarak tut (veya sırtına/ensene daya). 2. Kalçayı geriye iterek sırt düz şekilde öne eğil. 3. Bacak ve bel ile doğrul.",
+      "tips": "Göğüste tutmak hareketi güvenli hale getirir ve iyi bir bel kuvveti inşa eder."
+    },
+    {
+      "name": "Plate Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı göğüs hizasında kucakla (Goblet tarzı) veya kollarını ileri düz uzatarak tut. 2. Sırt dik kalacak şekilde çömel. 3. İterek kalk.",
+      "tips": "Plakayı önde tutmak, geriye düşmeyi engelleyerek squat derinliğini artırmana yardımcı olur."
+    },
+    {
+      "name": "Plate Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2, "HAMSTRINGS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Plakayı göğsünde (veya baş üstünde daha zor bir versiyon için) tut. 2. Bir ayağınla ileri adım atarak çömel. 3. Başlangıca geri dön.",
+      "tips": "Baş üstünde tutmak core bölgesine binen yükü dramatik şekilde artırır."
+    },
+    {
+      "name": "Plate Russian Twist",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Yere otur, ayaklarını hafifçe yerden kes ve geriye yaslan. 2. Plakayı iki elinle tut. 3. Gövdeni ve plakayı sırayla sağa ve sola döndür.",
+      "tips": "Yan karın (oblik) kasları için klasik ve etkili bir ağırlıklı karın egzersizidir."
+    },
+    {
+      "name": "Plate Woodchop",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "PLATE",
+      "instructions": "1. Ayakta dururken plakayı iki elinle tut. 2. Gövdeni döndürerek plakayı dizinin dışından yukarı, ters omuzunun üstüne doğru çapraz savur. 3. Tersini yap.",
+      "tips": "Odun kırma (woodchop) hareketidir, oblikleri ve rotasyonel gücü artırır."
+    },
+    {
+      "name": "Medicine Ball Slam",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"LATS": 1, "SHOULDERS": 1, "QUADS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Sağlık topunu (sekmeyen türden) iki elinle başının üzerine kaldır. 2. Ayak parmak uçlarında yüksel. 3. Tüm gücünle, gövdeni öne bükerek topu yere çarp.",
+      "tips": "Merkez bölge patlayıcılığı için harikadır. Topun suratına sekmemesi için ağır ve sekmeyen top kullan."
+    },
+    {
+      "name": "Medicine Ball Throw",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"SHOULDERS": 1, "TRICEPS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Bir duvarın karşısına geç. 2. Sağlık topunu göğüs hizasında tut. 3. Basketbol pası (chest pass) atar gibi tüm gücünle duvara fırlat. 4. Dönen topu yakalayıp tekrarla.",
+      "tips": "Üst gövde patlayıcı itiş kuvvetini geliştirir."
+    },
+    {
+      "name": "Medicine Ball Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 1, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Sağlık topunu göğüs hizasında kucakla. 2. Ayaklarını omuz genişliğinde açarak çömel. 3. Topuklardan iterek kalk.",
+      "tips": "Goblet squat mantığıyla çalışır, ısınma veya hafif ağırlık günleri için uygundur."
+    },
+    {
+      "name": "Medicine Ball Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"GLUTES": 2, "CORE": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Topu göğüs hizasında tut. 2. İleriye lunge adımı atarak çömel. 3. Adım atarken veya çömelmişken topu gövdenle birlikte yan tarafa döndür (twist ekle).",
+      "tips": "Bacak çalışmasına stabilizasyon ve core rotasyonu ekleyen fonksiyonel bir kombodur."
+    },
+    {
+      "name": "Medicine Ball Push-Up",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": {"TRICEPS": 2, "CORE": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Şınav pozisyonu al ama bir veya iki elini sağlık topunun üzerine koy. 2. Dengeyi sağlayarak şınav çek. 3. Tek eldeyse topu diğer eline yuvarla ve tekrarla.",
+      "tips": "Dengesiz zemin (top) nedeniyle karın ve omuz sabitleyici kaslar çok sert çalışır."
+    },
+    {
+      "name": "Medicine Ball Russian Twist",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Yere otur, dizlerini büküp ayakları hafifçe kaldır. 2. Topu eline al ve geriye yaslan. 3. Gövdeni sağa ve sola döndürerek topu yere değdir.",
+      "tips": "Hareketi kollarınla değil gövdeni döndürerek yapmaya odaklan."
+    },
+    {
+      "name": "Medicine Ball Hip Throw",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1, "GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Duvara yan dönük şekilde dur. 2. Topu iki elinle dışarıdaki kalçanın hizasında tut. 3. Kalçanı çevirerek ve gövdeni döndürerek topu hızla duvara fırlat.",
+      "tips": "Dövüş sporcuları, golfçüler ve tenisçiler için kalça rotasyon gücü üreten kilit bir egzersizdir."
+    },
+    {
+      "name": "Medicine Ball Wall Ball",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"SHOULDERS": 2, "CORE": 1, "GLUTES": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Duvara dönük dur, topu göğsünde tut. 2. Tam bir squat yap. 3. Kalkarken aldığın hızla topu duvarda yüksek bir hedefe fırlat. 4. Düşen topu yakalayıp hemen tekrar çömel.",
+      "tips": "CrossFit'in vazgeçilmez kardiyo-güç hareketidir. Akıcılığı bozmadan nefesini kontrol et."
+    },
+    {
+      "name": "Medicine Ball Overhead Throw",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"TRICEPS": 1, "CORE": 2},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Topu iki elinle başının üzerine ve biraz arkasına al. 2. Sırtından destek alarak futbol tacı (throw-in) atar gibi duvara veya ileriye hızla fırlat.",
+      "tips": "Kanat ve core bölgesinin patlayıcı esneyip kasılmasını sağlar."
+    },
+    {
+      "name": "Medicine Ball Rotational Throw",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 1},
+      "type": "WEIGHT_REPS",
+      "equipment": "OTHER",
+      "instructions": "1. Duvara yan dönüp topu göğüs hizasında tut. 2. Gövdeni geriye kur, sonra patlayıcı şekilde ileri döndürerek topu duvara çarp.",
+      "tips": "Hip Throw'a benzer ama daha çok göğüs/omuz hizasından yapılan core rotasyonudur."
+    },
+    {
+      "name": "Battle Rope Wave (Alternating)",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CORE": 1, "FOREARMS": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. Yarım squat pozisyonunda iplerin uçlarını kavra. 2. Kollarını sırayla yukarı aşağı hızlıca savurarak iplerde dalga yarat.",
+      "tips": "Kardiyovasküler kapasiteyi zorlar. Dalgaların ipin bağlı olduğu noktaya kadar gitmesine çalış."
+    },
+    {
+      "name": "Battle Rope Wave (Double)",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CORE": 2, "LATS": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İplerin uçlarını tut ve hafif çömel. 2. İki kolunu aynı anda sertçe yukarı kaldırıp aşağı vurarak eşzamanlı dalgalar oluştur.",
+      "tips": "Alternating versiyonuna göre karın kaslarını daha fazla sıkarak seni sabit tutmaya zorlar."
+    },
+    {
+      "name": "Battle Rope Slam",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"CORE": 2, "SHOULDERS": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İki ipi de kavra. 2. Kollarını ve gövdeni başının üstüne kadar esnetip kaldır. 3. Tüm vücut ağırlığınla ipleri yere olanca gücünle çarp.",
+      "tips": "Sadece kollarla değil, kalçanı ve gövdeni aşağı çekerek patlayıcı güç üret."
+    },
+    {
+      "name": "Battle Rope Circle",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"FOREARMS": 1, "CORE": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İpleri tutarak dik dur veya hafif çömel. 2. İki kolunla (dışarıdan içeriye veya içeriden dışarıya) daireler çiz.",
+      "tips": "Omuz kaslarını inanılmaz derecede yakar, dayanıklılık için birebirdir."
+    },
+    {
+      "name": "Battle Rope Pull",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": {"FOREARMS": 2, "BICEPS": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. Uzun ve ağır battle rope'un bir ucuna geç (veya ağırlık bağla). 2. Yarım squat pozisyonu al. 3. İpi elden ele değiştirerek hızla kendine doğru çek (halat çekme).",
+      "tips": "Muazzam bir sırt ve kavrama kuvveti sağlar. Gövdeni geriye yaslayarak çekiş yap."
+    },
+    {
+      "name": "Battle Rope Lunge Wave",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"SHOULDERS": 2, "GLUTES": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. Alternatif dalga hareketini (Alternating Wave) yapmaya başla. 2. Kolların çalışırken aynı anda geriye doğru lunge adımları atarak çömelip kalk.",
+      "tips": "Hem üst gövde dayanıklılığını hem de alt gövde gücünü birleştiren zorlu bir fonksyionel kombodur."
+    },
+    {
+      "name": "Battle Rope Squat Wave",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": {"SHOULDERS": 2, "CORE": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. Çift dalga (Double Wave) veya tekli dalga yap. 2. İpleri savururken squat formunda ritmik olarak çömelip kalk.",
+      "tips": "Tüm vücudu eforun içine sokarak nabzı çok hızlı yükseltir."
+    },
+    {
+      "name": "Battle Rope Jumping Jack",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": {"CALVES": 1, "CORE": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İplerin uçlarını kavra. 2. Klasik Jumping Jack (kolları yukarı kaldırıp bacakları açarak zıplama) hareketini yap. 3. İpler ekstra direnç sağlayacaktır.",
+      "tips": "Kolları tam yukarı kaldırmak ağır iplerle çok zordur, hareket hızını tempoyla ayarla."
+    },
+    {
+      "name": "Battle Rope Plank Wave",
+      "primaryMuscle": "CORE",
+      "secondaryMuscles": {"SHOULDERS": 2},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İpin ucuna geçip tek elle şınav/plank pozisyonu al. 2. Boştaki elinle ipi kavra. 3. Tek kol üzerinde dengede dururken diğer kolla ipe dalga yaptır. 4. Taraf değiştir.",
+      "tips": "Merkez bölgeni paramparça edecek kadar zor bir anti-rotasyon ve omuz kuvvet hareketidir."
+    },
+    {
+      "name": "Battle Rope Power Slam",
+      "primaryMuscle": "LATS",
+      "secondaryMuscles": {"CORE": 2, "SHOULDERS": 1},
+      "type": "TIME",
+      "equipment": "OTHER",
+      "instructions": "1. İpleri kavra ve çömel. 2. Havaya zıplayarak kollarını tamamen yukarı savur. 3. Yere inerken ipleri olabildiğince sert yere çarp.",
+      "tips": "Battle Rope Slam hareketine zıplama eklenmiş varyasyonudur, tam vücut patlayıcılığıdır."
+    }
+  ]
